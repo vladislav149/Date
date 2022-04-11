@@ -2,7 +2,9 @@
 .idea/
 .idea/*
 .vscode
+.parcel-cache
 build/
+node_modules/
 npm-debug.*
 package-lock.json
 trash/
