@@ -6,11 +6,11 @@
 37/home/vlad/learnJS/Date/css/reset.css1649696999182287146 0
 36/home/vlad/learnJS/Date/package.json1649714282994021313 0
 36/home/vlad/learnJS/Date/.eslintrc.js1649696999154287062 0
-34/home/vlad/learnJS/Date/.gitignore1649714298918125466 0
+34/home/vlad/learnJS/Date/.gitignore1649715195851999147 0
 51/home/vlad/learnJS/Date/dist/index.b2625c6b.css.map1649713741878488761 0
 51/home/vlad/learnJS/Date/dist/index.9bfebdba.css.map1649713741878488761 0
 46/home/vlad/learnJS/Date/dist/index.fbb3188c.js1649713741914488996 0
-34/home/vlad/learnJS/Date/index.html1649696999182287146 0
+34/home/vlad/learnJS/Date/index.html1649715089371301403 0
 57/home/vlad/learnJS/Date/node_modules/import-fresh/license1649699467627060489 0
 58/home/vlad/learnJS/Date/node_modules/import-fresh/index.js1649699467655060707 0
 49/home/vlad/learnJS/Date/node_modules/import-fresh1649699467699061052 1
