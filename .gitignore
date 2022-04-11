@@ -3,8 +3,6 @@
 .idea/*
 .vscode
 build/
-node_modules/
 npm-debug.*
-note_modules/
 package-lock.json
 trash/
