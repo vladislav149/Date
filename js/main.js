@@ -3,7 +3,7 @@
 /* eslint-disable no-console */
 import { intervalToDuration } from 'date-fns';
 
-import { UI_ELEMENTS } from './consts.js';
+import UI_ELEMENTS from './consts.js';
 import showDate from './view.js';
 
 function result(e) {

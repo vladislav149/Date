@@ -1,6 +1,6 @@
 15404
-34/home/vlad/learnJS/Date/js/main.js1649709899093370473 0
-34/home/vlad/learnJS/Date/js/view.js1649709896125353720 0
+34/home/vlad/learnJS/Date/js/main.js1649712392249628439 0
+34/home/vlad/learnJS/Date/js/view.js1649712354077373889 0
 26/home/vlad/learnJS/Date/js1649696999182287146 1
 37/home/vlad/learnJS/Date/css/style.css1649696999182287146 0
 37/home/vlad/learnJS/Date/css/reset.css1649696999182287146 0
@@ -9,7 +9,7 @@
 34/home/vlad/learnJS/Date/.gitignore1649696999154287062 0
 51/home/vlad/learnJS/Date/dist/index.b2625c6b.css.map1649709769624652610 0
 51/home/vlad/learnJS/Date/dist/index.9bfebdba.css.map1649709769620652588 0
-46/home/vlad/learnJS/Date/dist/index.fbb3188c.js1649709899209371129 0
+46/home/vlad/learnJS/Date/dist/index.fbb3188c.js1649712354213374796 0
 34/home/vlad/learnJS/Date/index.html1649696999182287146 0
 57/home/vlad/learnJS/Date/node_modules/import-fresh/license1649699467627060489 0
 58/home/vlad/learnJS/Date/node_modules/import-fresh/index.js1649699467655060707 0
@@ -6468,7 +6468,7 @@
 75/home/vlad/learnJS/Date/node_modules/es-abstract/2020/IsConcatSpreadable.js1649699468423066714 0
 76/home/vlad/learnJS/Date/node_modules/@parcel/packager-raw/src/RawPackager.js1649699467711061146 0
 60/home/vlad/learnJS/Date/node_modules/date-fns/esm/addMinutes1649699471467090498 1
-50/home/vlad/learnJS/Date/dist/index.fbb3188c.js.map1649709899209371129 0
+50/home/vlad/learnJS/Date/dist/index.fbb3188c.js.map1649712354217374823 0
 80/home/vlad/learnJS/Date/node_modules/date-fns/esm/fp/formatRFC7231/index.js.flow1649699468559067778 0
 73/home/vlad/learnJS/Date/node_modules/cosmiconfig/dist/cacheWrapper.js.map1649699467859062304 0
 75/home/vlad/learnJS/Date/node_modules/date-fns/fp/getMilliseconds/index.d.ts1649699471959094340 0
@@ -11440,7 +11440,7 @@
 61/home/vlad/learnJS/Date/node_modules/date-fns/esm/addQuarters1649699471467090498 1
 84/home/vlad/learnJS/Date/node_modules/date-fns/fp/eachQuarterOfInterval/index.js.flow1649699468831069905 0
 91/home/vlad/learnJS/Date/node_modules/date-fns/fp/differenceInQuartersWithOptions/index.d.ts1649699471915093996 0
-36/home/vlad/learnJS/Date/js/consts.js1649708894804097650 0
+36/home/vlad/learnJS/Date/js/consts.js1649710119298644257 0
 93/home/vlad/learnJS/Date/node_modules/date-fns/fp/differenceInQuartersWithOptions/package.json1649699471043087188 0
 67/home/vlad/learnJS/Date/node_modules/cross-spawn/lib/util/escape.js1649699467727061271 0
 79/home/vlad/learnJS/Date/node_modules/eslint/lib/cli-engine/lint-result-cache.js1649699468351066151 0
@@ -13270,7 +13270,7 @@
 62/home/vlad/learnJS/Date/node_modules/unbox-primitive/README.md1649699467839062147 0
 69/home/vlad/learnJS/Date/node_modules/date-fns/locale/kk/_lib/localize1649699470243080939 1
 78/home/vlad/learnJS/Date/node_modules/date-fns/locale/kk/_lib/localize/index.js1649699470243080939 0
-28/home/vlad/learnJS/Date/dist1649709899213371152 1
+28/home/vlad/learnJS/Date/dist1649712354217374823 1
 66/home/vlad/learnJS/Date/node_modules/date-fns/isWednesday/index.js1649699470007079096 0
 72/home/vlad/learnJS/Date/node_modules/date-fns/esm/subHours/index.js.flow1649699468795069623 0
 66/home/vlad/learnJS/Date/node_modules/date-fns/locale/kk/index.d.ts1649699472183096088 0
