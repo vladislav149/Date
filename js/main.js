@@ -1,15 +1,20 @@
-import {UI_ELEMENTS} from './consts.js';
-import { formatDistanceToNowStrict } from 'date-fns'
-UI_ELEMENTS.FORM.addEventListener('submit', result);
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable no-console */
+import { intervalToDuration } from 'date-fns';
+
+import { UI_ELEMENTS } from './consts.js';
+import showDate from './view.js';
+
 function result(e) {
   e.preventDefault();
-  let date = new Date(UI_ELEMENTS.INPUT.value);
-  console.log(date);
+  const date = new Date(UI_ELEMENTS.INPUT.value);
   const now = new Date();
-  console.log(now);
-  console.log(now-date);
-  //const test = format(new Date(), '	X');
-  //console.log(test);
-  const test2 = formatDistanceToNowStrict(new Date(date));
-  console.log(test2);
+  const timeInterval = intervalToDuration({
+    start: date,
+    end: now,
+  });
+  showDate(timeInterval);
 }
+
+UI_ELEMENTS.FORM.addEventListener('submit', result);
