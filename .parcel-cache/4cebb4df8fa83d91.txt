@@ -4,7 +4,7 @@
 26/home/vlad/learnJS/Date/js1649696999182287146 1
 37/home/vlad/learnJS/Date/css/style.css1649696999182287146 0
 37/home/vlad/learnJS/Date/css/reset.css1649696999182287146 0
-36/home/vlad/learnJS/Date/package.json1649714282994021313 0
+36/home/vlad/learnJS/Date/package.json1649882431376692462 0
 36/home/vlad/learnJS/Date/.eslintrc.js1649696999154287062 0
 34/home/vlad/learnJS/Date/.gitignore1649715195851999147 0
 51/home/vlad/learnJS/Date/dist/index.b2625c6b.css.map1649713741878488761 0
